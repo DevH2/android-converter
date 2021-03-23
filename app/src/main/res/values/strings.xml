@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OmniConverter</string>
+    <string name="rmb_button_text">RMB</string>
+    <string name="euro_button_text">Euro</string>
+    <string name="cad_button_text">Canadian Dollar</string>
+    <string name="pound_button_text">Pounds</string>
+</resources>
